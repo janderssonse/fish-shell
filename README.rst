@@ -3,6 +3,10 @@
       :alt: Cirrus CI Build Status
 
 `fish <https://fishshell.com/>`__ - the friendly interactive shell |Build Status| |Cirrus CI|
+
+.. image:: https://api.scorecard.dev/projects/github.com/janderssonse/fish-shell/badge
+   :target: https://scorecard.dev/viewer/?uri=github.com/janderssonse/fish-shell
+   :alt: OpenSSF Scorecard
 =============================================================================================
 
 fish is a smart and user-friendly command line shell for macOS, Linux,
